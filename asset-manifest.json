@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/harshsoni/static/css/main.da5cf797.css",
-    "main.js": "/harshsoni/static/js/main.9e670057.js",
+    "main.js": "/harshsoni/static/js/main.abf5fc25.js",
     "static/media/avatar1.jpg": "/harshsoni/static/media/avatar1.862a579932dd62fa7ff1.jpg",
     "static/media/avatar7.jpg": "/harshsoni/static/media/avatar7.36b203b3dc0c2dfa09a9.jpg",
     "static/media/avatar6.jpg": "/harshsoni/static/media/avatar6.eb565264c773eaa26be0.jpg",
@@ -10,16 +10,16 @@
     "static/media/avatar4.jpg": "/harshsoni/static/media/avatar4.94548b8ee169fa1ff06b.jpg",
     "static/media/avatar2.jpg": "/harshsoni/static/media/avatar2.2644baf015ca9be97e53.jpg",
     "static/media/avatar3.jpg": "/harshsoni/static/media/avatar3.ccc3ba8edb3b9538fe5f.jpg",
-    "static/media/cv.pdf": "/harshsoni/static/media/cv.f9a509af70dbd28a05ec.pdf",
+    "static/media/cv.pdf": "/harshsoni/static/media/cv.8a3b82e03ce6a6e6c06e.pdf",
     "static/media/about.jpg": "/harshsoni/static/media/about.3d2119c495c131a968dc.jpg",
     "static/media/header.jpg": "/harshsoni/static/media/header.3d2119c495c131a968dc.jpg",
     "static/media/logo2.png": "/harshsoni/static/media/logo2.7389e3664688ca69c852.png",
     "index.html": "/harshsoni/index.html",
     "main.da5cf797.css.map": "/harshsoni/static/css/main.da5cf797.css.map",
-    "main.9e670057.js.map": "/harshsoni/static/js/main.9e670057.js.map"
+    "main.abf5fc25.js.map": "/harshsoni/static/js/main.abf5fc25.js.map"
   },
   "entrypoints": [
     "static/css/main.da5cf797.css",
-    "static/js/main.9e670057.js"
+    "static/js/main.abf5fc25.js"
   ]
 }
