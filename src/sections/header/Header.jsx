@@ -18,7 +18,7 @@ const Header = () => {
         </div>
         <h3  data-aos="fade-up">HARSH SONI</h3>
         <p  data-aos="fade-up">
-        I’m a web developer who creates modern, mobile-friendly, and fast websites. With experience in both frontend and full-stack projects, I can turn your ideas into reality. Let’s build your perfect website or app today!
+        I’m a web developer who creates modern, mobile-friendly, and fast websites. With experience in both frontend and full-stack projects, I can turn your ideas into reality. Let’s build your perfect website or app today.
         </p>
         <div className="header__cta" >
           <a href="#contact" className='btn primary'>Let's Talk</a>
